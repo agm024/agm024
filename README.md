@@ -30,27 +30,6 @@ You can click the Preview link to take a look at your changes.👀
 
 ---
 
-This is a sample of my technical and professional skills. I am always learning new things and improving my abilities.
-<div style="background-color:#1a1a2e; padding: 20px; border-radius: 10px;">
-  <h2 style="color:black;">Language Proficiency</h2>
-  <div style="color:black;">HTML <span style="float:right;">90%</span></div>
-  <div style="background-color:blue; border-radius: 13px; padding: 3px;">
-    <div style="background-color:green; width:90%; height:20px; border-radius:10px;"></div>
-  </div>
-  <br>
-  <div style="color:white;">CSS <span style="float:right;">80%</span></div>
-  <div style="background-color:grey; border-radius: 13px; padding: 3px;">
-    <div style="background-color:blue; width:80%; height:20px; border-radius:10px;"></div>
-  </div>
-  <br>
-  <div style="color:white;">JavaScript <span style="float:right;">70%</span></div>
-  <div style="background-color:grey; border-radius: 13px; padding: 3px;">
-    <div style="background-color:yellow; width:70%; height:20px; border-radius:10px;"></div>
-  </div>
-</div>
-
-![Header Image](https://via.placeholder.com/1000x300.png?text=Header+Image)
-
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
