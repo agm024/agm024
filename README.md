@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agm024
-- ❤️ I’m interested in Photography, Programming
-- 🌱 I’m currently learning HTML, Python, C, CSS, Javascript, SQL
+- ❤️ I’m interested in Photography, Computer programming
+- 🌱 I am a HTML, Python, C, CSS, Javascript, SQL developer
 - ✨ I have completed course CS50x from Harvard 
 <!---
 agm024/agm024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
