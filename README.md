@@ -19,15 +19,6 @@ You can click the Preview link to take a look at your changes.👀
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript | 5% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20"/> SQL | 10% |
 
-## Professional Skills
-
-* **Creativity:** 90%
-* **Communication:** 80%
-* **Problem Solving:** 75%
-* **TeamWork:** 85%
-* **Initiative Driven:** 90%
-* **Enthusiastic:** 80% 
-
 ---
 
 ## Use To Code
