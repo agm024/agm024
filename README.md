@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @agm024
-- ❤️ I’m interested in Photography, Computer programming
-- 🌱 I am a HTML, Python, C, CSS, Javascript, SQL developer
-- ✨ I have completed course CS50x from Harvard 
+- 👋 Hi, I'm @agm024
+- ❤️ I'm passionate about Photography and Computer Programming.
+- 🌱 I'm skilled in HTML, Python, C, CSS, JavaScript, and SQL.
+- ✨ I have recently completed the CS50x course from Harvard.
 <!---
 agm024/agm024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.👀 
@@ -30,28 +30,9 @@ You can click the Preview link to take a look at your changes.👀
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
-
-## 📚 About The Project
-
-[![Project Title](https://img.shields.io/badge/Project%20Title-Calculator%20-blue)](https://github.com/agm024/Calculator.c)
-
-A brief description of this project is calculator which give all output in multiplication, addition, subract, division and average and at last Thank you!!.
-
-## 🚀 Calculator
-
-![Demo GIF](https://github.com/agm024/agm024/assets/161752478/2a5723ff-25b6-4ed4-830a-df9b9a661bea)
-
-
-
-## 🔧 Installation
-
-```bash
-git clone https://github.com/agm024/Calculator.c.git
-cd Calculator.c
-npm install
-npm start
-```
-
+---
+## 📚 About Me
+I am a 9th-grade student with a keen interest in building a successful career as a Software Developer/Engineer. I enjoy solving complex problems through coding and continuously learning new technologies to enhance my skills. My journey in programming started with the CS50x course from Harvard, which laid a strong foundation in computer science principles. Outside of coding, I have a passion for photography, capturing moments and expressing creativity through the lens.
 <p align="left">
   <a href="https://github.com/agm024?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
