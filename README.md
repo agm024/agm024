@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=agm024">
+  <img align="right" src="https://komarev.com/ghpvc/?username=agm024&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 - 👋 Hi, I'm @agm024
 - ❤️ I'm passionate about Photography and Computer Programming.
 - 🌱 I'm skilled in HTML, Python, C, CSS, JavaScript, and SQL.
