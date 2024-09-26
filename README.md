@@ -11,7 +11,7 @@
 
 - 👋 Hi, I'm @agm024
 - ❤️ I'm passionate about Photography and Computer Programming.
-- 🌱 I'm skilled in HTML, Python, C, CSS, JavaScript, and SQL.
+- 🌱 I'm skilled in HTML, Python, C, CSS, JavaScript, SQL and PostgreSQl.
 - ✨ I have recently completed the CS50x course from Harvard.
 <!---
 agm024/agm024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,12 +37,13 @@ You can click the Preview link to take a look at your changes.👀
 
 | Skill | Proficiency |
 |---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width ="20" height="20" /> C Programming | 70% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width ="20" height="20" /> C Programming | 75% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20"/> Python | 50% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20"/> HTML | 70% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> CSS | 80% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript | 5% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20"/> SQL | 10% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20"/> SQL | 20% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="20" height="20" /> PostgreSQL | 90% |
 
 
 ## Use To Code
@@ -53,8 +54,9 @@ You can click the Preview link to take a look at your changes.👀
 ![PYTHON](https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=python&logoColor=white)
 ![CLANG](https://img.shields.io/badge/Clang-1572B6?style=for-the-badge&logo=C&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 <br/>
 ---
 
