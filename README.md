@@ -95,6 +95,5 @@ I am a 9th-grade student with a keen interest in building a successful career as
   <br/>
 </a>
 
-
 ![Agastya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=agm024&custom_title=agm%20024's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
