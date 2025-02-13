@@ -85,7 +85,7 @@ I am a 9th-grade student with a keen interest in building a successful career as
 
 <p align="center">
   <a href="https://github.com/agm024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agm024&theme=radical" alt="Agastya's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agm024&theme=radical" width="80%" length="80%" alt="Agastya's GitHub Contribution"/>
   </a>
 </p>
 
