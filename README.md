@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.👀
 --
 
 ## 📚 About Me
-I am a 10th-grade student with a keen interest in building a successful career as a Software Developer/Engineer. I enjoy solving complex problems through coding and continuously learning new technologies to enhance my skills. My journey in programming started with the CS50x course from Harvard, which laid a strong foundation in computer science principles. Outside of coding, I have a passion for photography, capturing moments and expressing creativity through the lens.
+I am a 11th-grade student with a keen interest in building a successful career as a Software Developer/Engineer. I enjoy solving complex problems through coding and continuously learning new technologies to enhance my skills. My journey in programming started with the CS50x course from Harvard, which laid a strong foundation in computer science principles. Outside of coding, I have a passion for photography, capturing moments and expressing creativity through the lens.
 <p align="left">
   <a href="https://github.com/agm024?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
